@@ -2,6 +2,13 @@
   "name": "Gaoshichao/xwork",
   "description": "xwork desc",
   "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "gaoshichao",
+      "email": "canyuanc@qq.com"
+    }
+  ],
   "require": {
     "php": ">=5.5"
   },
