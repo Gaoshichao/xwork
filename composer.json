@@ -1,0 +1,12 @@
+{
+  "name": "Gaoshichao/xwork",
+  "description": "xwork desc",
+  "type": "library",
+  "require": {
+    "php": ">=5.5",
+  },
+  "autoload-dev": {
+    "classmap": [
+    ]
+  }
+}
